@@ -1,1 +1,1 @@
-t
+# Hello, world!
